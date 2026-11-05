@@ -8,8 +8,8 @@ Windows 桌面免安装小工具：磨砂时钟、一小时倒计时、起身提
 
 ## 在线更新
 
-V1.0.0 起，顶部显示当前更新状态。检查成功后显示“最新版 V…”，有新版本时高亮“立即更新”；点击即可下载、校验、更新并自动重新打开。离线时可点击重试。此前的旧版请先手动升级一次。
+V1.0.0 起，顶部显示当前更新状态。检查成功后显示“最新版 V…”，有新版本时高亮“立即更新”；点击当前版本可立即检查；发现更新后点击即可下载、校验、更新并自动重新打开。离线时可点击重试。此前的旧版请先手动升级一次。
 
 待办、薪资、城市、皮肤、字号和背景保存在使用者自己的本机用户目录。更新包不含制作者的个人数据。
 
-该仓库发布软件包和签名更新清单。天气来源 [Open-Meteo](https://open-meteo.com/)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)），空气质量来源 [AQICN](https://aqicn.org/map/china/cn/)。完整说明见软件包。
+该仓库发布软件包和签名更新清单。天气来源 [Open-Meteo](https://open-meteo.com/)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)），空气质量来源 [AQICN](https://aqicn.org/map/china/cn/)。本地城市目录来源 [GeoNames](https://www.geonames.org/)（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)），支持中文与拼音查询中小城市和区县。完整说明见软件包。
